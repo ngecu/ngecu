@@ -32,7 +32,7 @@
 
 
 
-https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg
+
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
