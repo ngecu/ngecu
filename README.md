@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 2th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+<em>I am a 2th Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -25,12 +25,11 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg
 "></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg
-"></a></code>
+
 
 
 https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg
