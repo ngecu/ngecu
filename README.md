@@ -44,7 +44,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngecu&&show_icons=true&theme=radical" alt="Ngecu's Github Stats">
 </p>  
 
 <div align="center">
@@ -52,22 +52,22 @@
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/robinson-ngecu-6a037688/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Ngecu's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/devngecu/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Ngecu's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/_ngecu_" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Ngecu's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.youtube.com/channel/UCUEr3z34uxW_3r0ruUxqzkw" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  <img align="center" alt="Ngecu's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
  </a> 
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ngecu%2F" /></p>
 <br/>
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
