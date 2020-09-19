@@ -1,6 +1,6 @@
 ![Ngecu](ngecu.png)
-###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 2nd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;<img src=https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="24px">
+<em>I am a 2nd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -9,7 +9,7 @@
 	- Some C & C++
   - Visual Basics
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/ngecu/ngecu/blob/master/software_innovation1.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -21,16 +21,16 @@
 - **Shell Scripting**
 
 
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg
-"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code>
-
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
 
 
 
@@ -49,7 +49,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/robinson-ngecu-6a037688/" target="blank">
