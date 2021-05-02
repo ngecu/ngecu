@@ -48,9 +48,10 @@
 
 
 <p align="center">
-![Dev Ngecu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
-</p>
+	
+![DevNgecu](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
 
+</p>
 
 
 <div align="center">
