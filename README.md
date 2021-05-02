@@ -37,8 +37,12 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **React**
-- **AI**
+- **Artificial Intelligence Application**
+- **Django Framework(Pythob)**
+- **Data Science**
+- **Mern Stack**
+ 
+
 <br/>
   <br/>
 
