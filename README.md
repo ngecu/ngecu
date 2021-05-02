@@ -1,6 +1,6 @@
 ![Ngecu](ngecu.png)
 ###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
-<em>I am a 2nd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
+<em>I am a 3rd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technolofy</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
