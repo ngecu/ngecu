@@ -46,15 +46,12 @@
 <br/>
   <br/>
 
+
 <p align="center">
-[![Ngecu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngecu&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Dev Ngecu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngecu&&show_icons=true&theme=radical" alt="Ngecu's Github Stats">
-</p>  
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
