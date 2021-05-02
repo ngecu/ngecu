@@ -46,6 +46,8 @@
 <br/>
   <br/>
 
+[![Ngecu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngecu)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngecu&&show_icons=true&theme=radical" alt="Ngecu's Github Stats">
 </p>  
