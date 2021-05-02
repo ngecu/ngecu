@@ -46,6 +46,9 @@
 <br/>
   <br/>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngecu&&show_icons=true&theme=radical" alt="Ngecu's Github Stats">
+</p>  
 
 
 
