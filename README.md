@@ -1,6 +1,17 @@
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
 ![Ngecu](me.png)
+	  <div>
+	  
 ###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
-<em>I am a 3rd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technology</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
+<em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
+	<br/>
+	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
+	  </div>
+  </div>
+</div>
+
+
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
