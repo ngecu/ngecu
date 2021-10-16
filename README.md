@@ -1,37 +1,58 @@
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-![Ngecu](me.png)
-	  <div>
-	  
-###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
-<em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
+
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" width="600" src="./me.png"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top">
+	    <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
+	    <br/>
+	  <em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
 	<br/>
 	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
-	  </div>
-  </div>
-</div>
+	  </td>
+  </tr>
+</table>
 
 
- <br/>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ngecu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+
+
 ## Ask me about :computer: 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top">
+
+
 - **Competitive Programming**
 	- Python ❤️
 	- JavaScript
 	- Some C & C++
   - Visual Basics
 
-<img align="right" src="https://github.com/ngecu/ngecu/blob/master/software_innovation1.gif"/>
+	  </td>
 
+    <td valign="top">
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- HTML,CSS and JS 
 	- Bootstrap
-	- React with Redux :electron:
+	- React with Redux
 	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
 
-
+	    
+	
+	  
+	  
+    <td valign="top">
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
@@ -45,18 +66,25 @@
 
 
 
+  </tr>
+</table>
+
+<img align="right" src="https://github.com/ngecu/ngecu/blob/master/software_innovation1.gif"/>
+
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
 - **Artificial Intelligence Application**
-- **Django Framework(Pythob)**
+- **Django Framework(Python)**
 - **Data Science**
 - **Mern Stack**
 
-	
-![DevNgecu](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngecu&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Dev Ngecu's github stats"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <div align="center">
@@ -79,7 +107,7 @@
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-
+<div align="center">
 Visit my profile and give a ⭐️ if you like it</p>
-
+</div>
 
