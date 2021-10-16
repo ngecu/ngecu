@@ -1,4 +1,4 @@
-![Ngecu](ngecu.png)
+![Ngecu](me.png)
 ###  <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
 <em>I am a 3rd Year undergraduate student from <a href="https://www.mut.ac.ke/"><b>Murang'a University of Technology</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
@@ -41,17 +41,11 @@
 - **Django Framework(Pythob)**
 - **Data Science**
 - **Mern Stack**
- 
 
-<br/>
-  <br/>
-
-
-<p align="center">
 	
 ![DevNgecu](https://github-readme-stats.vercel.app/api?username=ngecu&show_icons=true&theme=radical&count_private=true)
 
-</p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngecu&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Dev Ngecu's github stats"/>
 
 
 <div align="center">
