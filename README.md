@@ -6,7 +6,8 @@
     <td valign="top"><img height="200" width="600" src="./me.png"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top">
-	    <img src="https://github.com/ngecu/ngecu/blob/master/hi.gif" width="29px"> Hello world!&nbsp;  <img src="https://github.com/ngecu/ngecu/blob/master/rotating_earth.gif" width="29px">
+	    
+👋  Hello world!&nbsp;  🌍
 	    <br/>
 	  <em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
 	<br/>
