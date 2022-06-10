@@ -27,7 +27,7 @@
 	<tr>[![trophy](https://github-profile-trophy.vercel.app/?username=ngecu)](https://github.com/ngecu/github-profile-trophy) </tr>
 </table>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ## Ask me about :computer: 
 <table cellpadding="0">
   <tr style="padding: 0">
