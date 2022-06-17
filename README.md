@@ -52,7 +52,7 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
 
-
+	  </td>
 
   </tr>
 </table>
