@@ -12,6 +12,7 @@
 	  <em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
 	<br/>
 	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
+	    <p align = "center"> <samp> <img src = https://komarev.com/ghpvc/?username=ngecu alt = ngecu /> </samp> </p
 	  </td>
   </tr>
 </table>
@@ -28,32 +29,17 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngecu&row=1&theme=onedark)](https://github.com/ngecu/github-profile-trophy)
-## Ask me about :computer: 
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
 
-
-- **Competitive Programming**
-	- Python ❤️
-	- JavaScript
-	- Some C & C++
-  - Visual Basics
-
-	  </td>
-
-    <td valign="top">
-- **Web Development**
-	- HTML,CSS and JS 
-	- Bootstrap
-	- React with Redux
-	- MonogoDB
-
-	    
+<p align="center">
+<a href="https://github.com/ngecu/github-readme-activity-graph"><img alt="DevNgecu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngecu&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+  </p>
+	  </td>   
 	
-	  
-	  
     <td valign="top">
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -70,24 +56,6 @@
 
   </tr>
 </table>
-
-<img align="right" src="https://github.com/ngecu/ngecu/blob/master/software_innovation1.gif"/>
-
-<br/><br/>
-
-## 🌱 I’m currently learning ...
-- **Artificial Intelligence Application**
-- **Django Framework(Python)**
-- **Data Science**
-- **Mern Stack**
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
