@@ -12,7 +12,7 @@
 	  <em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
 	<br/>
 	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
-	    <p align = "center"> <samp> <img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" /> </samp> </p
+	    <p align = "center"> <samp> <img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" /> </samp> </p>
 	  </td>
   </tr>
 </table>
@@ -30,21 +30,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngecu&row=1&theme=onedark)](https://github.com/ngecu/github-profile-trophy)
 
-
-<p align="center">
-<a href="https://github.com/ngecu/github-readme-activity-graph"><img alt="DevNgecu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngecu&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
-  </p>
 	
-	
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
 
+<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
 
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code>
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
+
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
+
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
 
 
 <div align="center">
