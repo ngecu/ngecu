@@ -30,19 +30,28 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngecu&row=1&theme=onedark)](https://github.com/ngecu/github-profile-trophy)
 
-	
+<table cellpadding="0">
+  <tr style="padding: 0">
+	  <td >
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-
+	  </td>
+    <td >
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
-
+    </td>
+<td>
 <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-
+</td>
+	<td>  
 <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
-
+	</td>
+	<td>   
 <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
-
+	</td>
+	  <td>
 <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
-
+</td>
+  </tr>
+</table>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
