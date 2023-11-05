@@ -16,6 +16,8 @@
 	  </td>
   </tr>
 </table>
+---
+
 
 
 <table cellpadding="0">
@@ -30,28 +32,25 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngecu&row=1&theme=onedark)](https://github.com/ngecu/github-profile-trophy)
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-	  <td >
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-	  </td>
-    <td >
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
-    </td>
-<td>
+
+<div>
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
 <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-</td>
-	<td>  
 <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
-	</td>
-	<td>   
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
-	</td>
-	  <td>
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
-</td>
-  </tr>
-</table>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MySQL"  alt="MySQL" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma"  alt="figma" height="50"/>
+
+
+ 
+ 
+</div>
+
+
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
@@ -77,3 +76,4 @@
 Visit my profile and give a ⭐️ if you like it</p>
 </div>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314lxi324wwz4uezxas7mlppawai&cover_image=true&theme=default" /></div>  
