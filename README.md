@@ -60,10 +60,10 @@
 
 ## ✍️ Recent Projects
 
-- [Mpesa STK API (NodeJS)] (https://github.com/ngecu/Mpesa-API)
--[School Management System] (https://devngecu-e-sms.onrender.com/)
-- [Chat App System] (https://github.com/ngecu/Chat-App)
-- [E-Commerce Platform] (https://drinksandchill.onrender.com/) 
+- [Mpesa STK API (NodeJS)](https://github.com/ngecu/Mpesa-API)
+- [School Management System](https://devngecu-e-sms.onrender.com/)
+- [Chat App System](https://github.com/ngecu/Chat-App)
+- [E-Commerce Platform](https://drinksandchill.onrender.com/) 
 
 
 
