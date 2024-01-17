@@ -64,7 +64,7 @@
 - [School Management System](https://devngecu-e-sms.onrender.com/)
 - [Chat App System](https://github.com/ngecu/Chat-App)
 - [E-Commerce Platform](https://drinksandchill.onrender.com/) 
-
+- [Movie App ](https://mvudu.onrender.com/)
 
 
 <div align="center">
