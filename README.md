@@ -1,4 +1,12 @@
 
+<h1 align="center">:wave: Hi there! I'm Robin</h1>
+
+<div align="center">
+
+
+
+
+</div>
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -9,7 +17,7 @@
 	    
 👋  Hello world!&nbsp;  🌍
 	    <br/>
-	  <em>Dev Ngecu here,A story waiting to be discovered.An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
+	  <em>An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
 	<br/>
 	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
 	    <p align = "center"> <samp> <img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" /> </samp> </p>
@@ -49,6 +57,13 @@
  
  
 </div>
+
+## ✍️ Recent Projects
+
+- [Mpesa STK API (NodeJS)] (https://github.com/ngecu/Mpesa-API)
+-[School Management System] (https://devngecu-e-sms.onrender.com/)
+- [Chat App System] (https://github.com/ngecu/Chat-App)
+- [E-Commerce Platform] (https://drinksandchill.onrender.com/) 
 
 
 
