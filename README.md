@@ -3,29 +3,13 @@
 
 <div align="center">
 
+<img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" />
 
-
-
+A Full Stack Developer,Quality Analyst and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Nairobi, Kenya.
 </div>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" width="600" src="./me.png"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top">
-	    
-👋  Hello world!&nbsp;  🌍
-	    <br/>
-	  <em>An awakened soul just moments away from living.The mind which happens to know little but is not afraid to learn.A simplified math equation, yet difficult to solve.
-	<br/>
-	From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/ngecu/ngecu/blob/master/laptop.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/ngecu/ngecu/blob/master/rocket (1).gif" height="18px"> is enough knowledge**. 🧠</em>
-	    <p align = "center"> <samp> <img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" /> </samp> </p>
-	  </td>
-  </tr>
-</table>
----
-
+- Open to project collaborations
+- Currently learning Dev-Ops
 
 
 <table cellpadding="0">
@@ -33,31 +17,16 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ngecu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-streak-stats-blush.vercel.app/?user=ngecu&count_private=true&theme=tokyonight&hide_border=true"/></td>
   </tr>
 
 </table>
 
+### **Languages and Tools:**  
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=20)](#)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngecu&row=1&theme=onedark)](https://github.com/ngecu/github-profile-trophy)
-
-
-<div>
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
-<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MySQL"  alt="MySQL" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma"  alt="figma" height="50"/>
-
-
- 
- 
-</div>
-
 ## ✍️ Recent Projects
 
 - [Mpesa STK API (NodeJS)](https://github.com/ngecu/Mpesa-API)
@@ -66,12 +35,14 @@
 - [E-Commerce Platform](https://drinksandchill.onrender.com/) 
 - [Movie App ](https://mvudu.onrender.com/)
 - [Internet of Things Microsoft Hackathon ](https://gol-sn3.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio)
+- [vetinary Management System](https://gol-sn3.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio)
+
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ngecu/ngecu/blob/master/handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/robinson-ngecu-6a037688/" target="blank">
+ <a href="https://www.linkedin.com/in/robinson-ngecu" target="blank">
   <img align="center" alt="Ngecu's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/devngecu/" target="blank">
