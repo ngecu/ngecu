@@ -5,7 +5,7 @@
 
 <img src = "https://komarev.com/ghpvc/?username=ngecu" alt = "ngecu" />
 
-A Full Stack Developer,Quality Analyst and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Nairobi, Kenya.
+A Full Stack Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Nairobi, Kenya.
 </div>
 
 - Open to project collaborations
